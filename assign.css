@@ -11,13 +11,20 @@ nav{
     font-weight: bold;
     padding: 12px 36px;
     border-radius: 10px;
-    border: none;
+    cursor:pointer;
+}
+button:hover {
+  background-color: #211e67;
+  font-size: 18px;
 }
 .raleway-normal {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400px;
   font-style: normal;
+}
+.flow{
+    color: #FFB805;
 }
 
 .open-sans-inter {
